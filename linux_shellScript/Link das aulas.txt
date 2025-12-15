@@ -1,0 +1,4 @@
+Aula 01 - Instalação: https://www.youtube.com/watch?v=z0eSqvtJAu4
+Aula 02 - Problemas com a máquina virtual: https://www.youtube.com/watch?v=_Y3ZLhFobPA
+Aula 03 - Comandos em Bash (parte 01): https://www.youtube.com/watch?v=r5GeHdwWKVE
+Aula 04 - Comandos em Bash (parte 02): https://www.youtube.com/watch?v=gsWj47U7lC4
